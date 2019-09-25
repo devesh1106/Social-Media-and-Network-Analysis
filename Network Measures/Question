@@ -1,0 +1,5 @@
+Please generate an induced subgraph of the network that includes only the 3-digit industry nodes listed in 
+Fig.5 of the working paper by Tafti, Rahmati and Westland (2015).
+Make a distinct color or shape for the nodes '511','541','518', and '519'. 
+Make the width of the edges proportional to the (logarithm of) edge weights, and make the size of the nodes proportional to any measure of
+node centrality of your choosing. Use the Fruchterman Reingold layout, or any other layout of your choosing.
