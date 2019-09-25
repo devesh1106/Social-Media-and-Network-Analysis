@@ -1,0 +1,4 @@
+Please use the two attached CSV files, containing the list of edges and nodes.
+
+Please show the network graph plots showing community structure, using the Fast Greedy, Walktrap, Spinglass and Label
+Propagation algorithms in igraph.
